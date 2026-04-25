@@ -1,2 +1,1 @@
-Hello AI, I am Prashant and  i  am adding a new feature ! 
-hello this is Prashant Pandey, how are you?
+Hello ! This is Prashant , Please give my output of input !
